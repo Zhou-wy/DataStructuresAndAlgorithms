@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/LinearList.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+../include/LinkList.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/mnt/d/Cdemo/Data structures and algorithms/1、LinearList_c/main.c
+stdio.h
+-
+LinearList.h
+/mnt/d/Cdemo/Data structures and algorithms/1、LinearList_c/LinearList.h
+LinkList.h
+/mnt/d/Cdemo/Data structures and algorithms/1、LinearList_c/LinkList.h
+
+/mnt/d/Cdemo/Data structures and algorithms/1、LinearList_c/src/LinkList.c
+LinkList.h
+/mnt/d/Cdemo/Data structures and algorithms/1、LinearList_c/src/LinkList.h
+
+/mnt/d/Cdemo/Data structures and algorithms/1、LinearList_c/src/arrayList.c
+LinearList.h
+/mnt/d/Cdemo/Data structures and algorithms/1、LinearList_c/src/LinearList.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/demo.dir/main.c.o CMakeFiles/demo.dir/src/Doublelinkedlist.c.o  -o demo 

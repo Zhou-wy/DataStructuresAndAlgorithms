@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Doublelinkedlist.h
+stdio.h
+-
+stdlib.h
+-
+
+/mnt/d/Cdemo/Data structures and algorithms/2、Doublelinkedlist/main.c
+Doublelinkedlist.h
+/mnt/d/Cdemo/Data structures and algorithms/2、Doublelinkedlist/Doublelinkedlist.h
+
+/mnt/d/Cdemo/Data structures and algorithms/2、Doublelinkedlist/src/Doublelinkedlist.c
+Doublelinkedlist.h
+/mnt/d/Cdemo/Data structures and algorithms/2、Doublelinkedlist/src/Doublelinkedlist.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/demo.dir/main.c.o CMakeFiles/demo.dir/src/arrayList.c.o CMakeFiles/demo.dir/src/LinkList.c.o  -o demo 

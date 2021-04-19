@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/LinearStack.h
+stdio.h
+-
+stdlib.h
+-
+
+/mnt/d/Cdemo/Data structures and algorithms/3、LinearStack/main.c
+stdio.h
+-
+LinearStack.h
+/mnt/d/Cdemo/Data structures and algorithms/3、LinearStack/LinearStack.h
+
+/mnt/d/Cdemo/Data structures and algorithms/3、LinearStack/src/LinearStack.c
+LinearStack.h
+/mnt/d/Cdemo/Data structures and algorithms/3、LinearStack/src/LinearStack.h
+
