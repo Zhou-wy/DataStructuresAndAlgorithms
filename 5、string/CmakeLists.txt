@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.0)
+project(demo)
+include_directories(include/)
+set(CMAKE_BUILD_TYPE debug)
+#set(CMAKE_BUILD_TYPE release)
+add_executable(demo main.c src/trre.c)
