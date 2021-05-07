@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/demo.dir/main.c.o CMakeFiles/demo.dir/src/Queue.c.o  -o demo 

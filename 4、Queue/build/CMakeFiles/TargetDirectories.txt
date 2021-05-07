@@ -1,0 +1,3 @@
+/mnt/d/Cdemo/Data structures and algorithms/4、Queue/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/Cdemo/Data structures and algorithms/4、Queue/build/CMakeFiles/demo.dir
+/mnt/d/Cdemo/Data structures and algorithms/4、Queue/build/CMakeFiles/edit_cache.dir

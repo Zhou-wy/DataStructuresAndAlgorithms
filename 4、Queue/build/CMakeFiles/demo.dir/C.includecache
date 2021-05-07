@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Queue.h
+stdio.h
+-
+stdlib.h
+-
+
+/mnt/d/Cdemo/Data structures and algorithms/4、Queue/main.c
+stdio.h
+-
+Queue.h
+/mnt/d/Cdemo/Data structures and algorithms/4、Queue/Queue.h
+
+/mnt/d/Cdemo/Data structures and algorithms/4、Queue/src/Queue.c
+Queue.h
+/mnt/d/Cdemo/Data structures and algorithms/4、Queue/src/Queue.h
+
